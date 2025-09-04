@@ -18,7 +18,6 @@ This is a summary of the main tasks you need to complete.
   - [ ] Add your Node.js screenshot to the asset folder.
   - [ ] Fix all bugs in the HTML, CSS, and JavaScript files.
   - [ ] Move any existing images into your new asset folder.
-  - [ ] Fill out the "Git Terminology Definitions" section in this README.
 - [ ] **Part 3: Submission**
   - [ ] Make at least two meaningful Git commits and push them to GitHub.
   - [ ] Deploy your fixed website using GitHub Pages.
@@ -43,7 +42,6 @@ Look for common errors across all files. There are issues with syntax, logic, an
   - Verify that the IDs used in `getElementById()` match the IDs in your `index.html` file exactly.
 
 ---
-
 
 ## Learning Objectives
 
