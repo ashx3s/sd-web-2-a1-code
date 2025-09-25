@@ -1,0 +1,20 @@
+{
+  "name": "sd-2-week-1-assignment-code",
+  "version": "1.0.0",
+  "description": "This project is designed to help you verify your development environment and refresh your HTML, CSS, and JavaScript debugging skills.",
+  "homepage": "https://github.com/ashx3s/sd-web-2-a1-code#readme",
+  "bugs": {
+    "url": "https://github.com/ashx3s/sd-web-2-a1-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashx3s/sd-web-2-a1-code.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
